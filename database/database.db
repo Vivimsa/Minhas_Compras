@@ -1,0 +1,13 @@
+Etapa Inicial:
+Verificar se o Node.js e o npm (Node Package Manager) foram instalados corretamente:
+node -v
+npm -v
+
+Inicializando:
+npm init -y
+ 
+Instalando pacote mais avançado (opcional):
+npm install express
+
+Criar uma pasta com espaço reservado para o banco de dados:
+Criei um pasta "database" com um arquivo chamado "databse.db"
